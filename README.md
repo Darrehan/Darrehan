@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **webdevelopment**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at [(https://darrehan.github.io/cv-2/)]
 
 - 💬 Ask me about **webdevelopment**
 
