@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-1YMcqqrMOGo/XhzDzo6to5I/AAAAAAAAM3U/AB03zu-TCqMhe5wBEfVQcXR3czvKOLoBQCLcBGAsYHQ/w1200-h630-p-k-no-nu/6-21-2020-Orion-Solar-Eclipse_Bylined.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rehan</h1>
-<h3 align="center">sycomusiclover<br>trekking lover<br>spritual love hurts spritual soul @sycomusiclover</h3>
+<em><h3 align="center">sycomusiclover<br>trekking lover<br>spritual love hurts spritual soul @sycomusiclover</h3></em>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sycomusiclover">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /> </p>
@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/cserehan" target="blank"><img src="https://img.shields.io/twitter/follow/cserehan?logo=twitter&style=for-the-badge" alt="cserehan" /></a> </p>
 
-- 🔭 I’m currently working on **website**
+- 🔭 I’m currently working on **website**[(https://th.bing.com/th/id/OIP.gs-y1v33nTGlVTsp4hZXTAHaEK?pid=ImgDet&rs=1)]
 
-- 🌱 I’m currently learning **webdevelopment**
+- 🌱 I’m currently learning **webdevelopment**[(https://th.bing.com/th/id/OIP.aWV651ZHqWXN-6GRQq7xXAAAAA?pid=ImgDet&rs=1)]
 
 - 👨‍💻 All of my projects are available at [(https://darrehan.github.io/cv-2/)]
 
-- 💬 Ask me about **webdevelopment**
+- 💬 Ask me about **webdevelopment**[(https://i.pinimg.com/originals/57/0c/65/570c65813267337784542c95d4b2992b.jpg)]
 
 - 📫 How to reach me **https://www.instagram.com/**
 
-- ⚡ Fun fact **sycomusiclover**
+- ⚡ Fun fact **sycomusiclover**[(https://cdn.quotesgram.com/img/98/55/1318762060-Smoking.jpg)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
