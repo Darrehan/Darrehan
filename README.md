@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/cserehan" target="blank"><img src="https://img.shields.io/twitter/follow/cserehan?logo=twitter&style=for-the-badge" alt="cserehan" /></a> </p>
 
-- 🔭 I’m currently working on **website**[(https://th.bing.com/th/id/OIP.gs-y1v33nTGlVTsp4hZXTAHaEK?pid=ImgDet&rs=1)]
+- 🔭 I’m currently working on **website**[(https://c2.staticflickr.com/6/5243/5332448409_c8cccc0c13.jpg)]
 
-- 🌱 I’m currently learning **webdevelopment**[(https://th.bing.com/th/id/OIP.aWV651ZHqWXN-6GRQq7xXAAAAA?pid=ImgDet&rs=1)]
+- 🌱 I’m currently learning **webdevelopment**[(https://th.bing.com/th/id/OIP.1hCaOQsgclHqwh9ZTUe58gHaHa?pid=ImgDet&rs=1)]
 
-- 👨‍💻 All of my projects are available at [(https://darrehan.github.io/cv-2/)]
+- 👨‍💻 All of my projects are available at [(https://th.bing.com/th/id/OIP.qPrJlzbyssCYcKa7pO8ipAAAAA?pid=ImgDet&rs=1)]
 
 - 💬 Ask me about **webdevelopment**[(https://i.pinimg.com/originals/57/0c/65/570c65813267337784542c95d4b2992b.jpg)]
 
 - 📫 How to reach me **https://www.instagram.com/**
 
-- ⚡ Fun fact **sycomusiclover**[(https://cdn.quotesgram.com/img/98/55/1318762060-Smoking.jpg)]
+- ⚡ Fun fact **sycomusiclover**[(https://i.ytimg.com/vi/OMD1PeGUh64/maxresdefault.jpg)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
