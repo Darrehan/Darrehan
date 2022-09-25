@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **webdevelopment**[(https://th.bing.com/th/id/OIP.1hCaOQsgclHqwh9ZTUe58gHaHa?pid=ImgDet&rs=1)]
 
-- 👨‍💻 All of my projects are available at [(https://th.bing.com/th/id/OIP.ru402jCUxSMedsMRwoGVcAHaNK?pid=ImgDet&rs=1)]
+- 👨‍💻 All of my projects are available at [(https://darrehan.github.io/cv-2/)]
 
 - 💬 Ask me about **webdevelopment**[(https://i.pinimg.com/originals/57/0c/65/570c65813267337784542c95d4b2992b.jpg)]
 
