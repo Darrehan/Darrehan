@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **https://www.instagram.com/**
 
-- ⚡ Fun fact **sycomusiclover**[(https://th.bing.com/th/id/OIP.OGtMZYNB_WTGsW0ZDKb6fQHaLF?pid=ImgDet&w=500&h=748&rs=1)]
+- ⚡ Fun fact **sycomusiclover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
