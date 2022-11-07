@@ -2,7 +2,7 @@
 <h1 align="center">Hi, Myself  Rehan A passionate developer from kashmir srinager</h1>
 <h3 align="center">learning Android oreo,Web development,ios and flutter </h3> 
 <img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sycomusiclover">
-
+<img align="right" width="400" src="https://www.mobupdates.com/wp-content/uploads/2017/07/android-2-0.jpg" alt="sycomusiclover">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a> </p>
