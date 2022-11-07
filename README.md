@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **website**
 
-- 🌱 I’m currently learning **webdevelopment**
+- 🌱 I’m currently learning **Android oreo,Web development,ios and flutter**
 
 - 👨‍💻 All of my projects are available at [(https://darrehan.github.io/cv-2/)]
 
