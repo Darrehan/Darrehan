@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-1YMcqqrMOGo/XhzDzo6to5I/AAAAAAAAM3U/AB03zu-TCqMhe5wBEfVQcXR3czvKOLoBQCLcBGAsYHQ/w1200-h630-p-k-no-nu/6-21-2020-Orion-Solar-Eclipse_Bylined.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi, Myself  Rehan from kashmir srinager</h1>
-<h3 align="center">learning,webdevelopment,flutter ios android development </h3> 
+<h1 align="center">Hi, Myself  Rehan A passionate developer from kashmir srinager</h1>
+<h3 align="center">learning Android oreo,Web development,ios and flutter </h3> 
 <img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sycomusiclover">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /> </p>
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [(https://darrehan.github.io/cv-2/)]
 
-- 💬 Ask me about ** webdevelopment flutter ios android development **
+- 💬 Ask me about ** Android oreo,Webdevelopment,ios and flutter**
 
 - 📫 How to reach me **https://www.instagram.com/**
 
