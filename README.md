@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on **website**
 
-- 🌱 I’m currently learning **Android oreo,Web development,ios and flutter**
+- 🌱 I’m currently learning (Android oreo,Web development,ios and flutter)
 
-- 👨‍💻 All of my projects are available at [(https://darrehan.github.io/cv-2/)]
+- 👨‍💻 Mini website to reach me(https://darrehan.github.io/cv-2/)
 
-- 💬 Ask me about ** Android oreo,Webdevelopment,ios and flutter**
+- 💬 Ask me about  Android oreo,Webdevelopment,ios and flutter
 
-- 📫 How to reach me **https://www.instagram.com/**
+- 📫 How to reach me(https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/)
 
-- ⚡ Fun fact **sycomusiclover**
+- ⚡ Fun fact(sycomusiclover,love to ▶ play guitar 🎸 when its raining outside)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
