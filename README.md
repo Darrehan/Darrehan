@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-1YMcqqrMOGo/XhzDzo6to5I/AAAAAAAAM3U/AB03zu-TCqMhe5wBEfVQcXR3czvKOLoBQCLcBGAsYHQ/w1200-h630-p-k-no-nu/6-21-2020-Orion-Solar-Eclipse_Bylined.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi, Myself  Rehan A passionate developer from kashmir srinager</h1>
-<h3 align="center">learning Android oreo,Web development,ios and flutter </h3> 
+<h3 align="center">learning Android oreo,Web development</h3> 
 <span><img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sycomusiclover">
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" alt="youtube"><img align="center" width="100" src="https://th.bing.com/th/id/OIP.zxZkXVGdqdYmhXSL2uuW7QHaHa?pid=ImgDet&rs=1" alt="youtube"></a></span>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /> </p>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **website**
 
-- 🌱 I’m currently learning (Android oreo,Web development,ios and flutter)
+- 🌱 I’m currently learning (Android oreo,Web development)
 
 - 👨‍💻 Mini website to reach me(https://darrehan.github.io/cv-2/)
 
