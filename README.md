@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning (Android oreo,Web development)
 
-- 👨‍💻 Mini website to reach me(https://darrehan.github.io/cv-2/)
+- 👨‍💻 Mini website to reach me(https://darrehan.github.io/cv-1/)
 
 - 💬 Ask me about  Android oreo,Webdevelopment,ios and flutter
 
