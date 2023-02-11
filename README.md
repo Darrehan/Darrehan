@@ -12,9 +12,7 @@
 - 🔭 I’m currently working on **website**
 
 - 🌱 I’m currently learning (Android oreo,Web development)
-
-- 👨‍💻 Mini website to reach me(https://darrehan.github.io/cv-1/)
-
+- 
 - 💬 Ask me about  Android oreo,Webdevelopment,ios and flutter
 
 - 📫 How to reach me(https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/)
