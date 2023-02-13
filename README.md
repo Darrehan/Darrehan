@@ -36,7 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40" height="40"/>bootstrap</a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png" width="40" height="40"/>c</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/74/74897.png"  width="40" height="40"/>c++</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://qph.fs.quoracdn.net/main-qimg-c32d8ef845310ff492ba1896ce007a63-c"  width="40" height="40"/>c++</a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/331/331383.png"  width="40" height="40"/>css</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://t3.ftcdn.net/jpg/00/83/05/00/240_F_83050019_PNgUwzBXAsHSORc52wdROmSWNeGEpIh5.jpg"  width="40" height="40"/>git</a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png"  width="40" height="40"/>html</a>
