@@ -14,9 +14,9 @@
 
 - ⚡ sycomusiclover.
 
-- 💬 Ask me about  Android oreo,Webdevelopment,ios and flutter.
+- 💬 Ask me about  Android oreo,Webdevelopment.
 
-- 📫 How to reach me <a  href="mailto:darrehanrasool@gmail.com"></a>
+- 📫 How to reach me. <a href="mailto:darrehanrasool@gmail.com">  mail me buddy</a>
 
 - ⚡ Fun fact(sycomusiclover,love to ▶ play guitar 🎸 when its raining outside).
 
