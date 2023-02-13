@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cserehan" target="blank"><img align="center" src=""  height="30" width="40" />twiter</a>
+<a href="https://twitter.com/cserehan" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"  height="30" width="40" />twiter</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/" target="blank"><img align="center" src="" height="30"width="40"/>linkedin</a>
 <a href="https://stackoverflow.com/users/19246521" target="blank"><img align="center" src=""  height="30" width="40" />stackoverflow</a>
 <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/" target="blank"><img align="center" src=""  height="30" width="40" />instagram</a>
