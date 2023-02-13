@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cserehan" target="blank"><img src="https://img.shields.io/twitter/follow/cserehan?logo=twitter&style=for-the-badge" alt="cserehan" />twiter</a></p>
+<p align="left"> <a href="https://twitter.com/cserehan" target="blank"><img src="https://img.shields.io/twitter/follow/cserehan?logo=twitter&style=for-the-badge" alt="cserehan" /><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"  height="30" width="40" /></a></p>
 
 - 🔭 I’m currently working on website.
 
