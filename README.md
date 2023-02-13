@@ -1,8 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-1YMcqqrMOGo/XhzDzo6to5I/AAAAAAAAM3U/AB03zu-TCqMhe5wBEfVQcXR3czvKOLoBQCLcBGAsYHQ/w1200-h630-p-k-no-nu/6-21-2020-Orion-Solar-Eclipse_Bylined.jpg)](https://rishavchanda.io)
 <em><strong><h1 align="center">Hi, Myself  Rehan A passionate developer from kashmir srinager</h1></em></strong>
+
 <em><strong><h2 align="center">learning Android oreo,Web development</h2></em></strong>
+
 <span><img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sycomusiclover">
- <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" alt="youtube"><img align="center" width="100" src="https://th.bing.com/th/id/OIP.zxZkXVGdqdYmhXSL2uuW7QHaHa?pid=ImgDet&rs=1" alt="youtube"></a></span>
+ 
+ <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" alt="youtube"><img align="right"  width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="you tube"></a></span>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a> </p>
