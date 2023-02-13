@@ -31,10 +31,13 @@
 <a href="https://leetcode.com/darrehanrasool/" target="blank"><img align="center" src="" alt="leetcode" height="30" width="40" />leetcode</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="" alt="bootstrap" width="40" height="40"/> </a>Bootstrap<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="" alt="c" width="40" height="40"/> </a> c programing <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="" alt="c++" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="" alt="css" width="40" height="40"/>css</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="" alt="git" width="40" height="40"/>git</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="" alt="html" width="40" height="40"/>html</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="" alt="linux" width="40" height="40"/>linux</a>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/>bootstrap</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="" alt="c" width="40" height="40"/>c</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src=""  width="40" height="40"/>c++</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src=""  width="40" height="40"/>css</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=""  width="40" height="40"/>git</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=""  width="40" height="40"/>html</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src=""  width="40" height="40"/>linux</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrehan&show_icons=true&locale=en&layout=compact" alt="darrehan" /></p>
