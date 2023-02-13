@@ -1,6 +1,5 @@
 <i><h3 align="center">Hi, Myself  Rehan A passionate developer from kashmir srinager,learning Android oreo,Web development</h3></i>
 [![MasterHead](https://www.tynker.com/image/parents/og-1200x630-coding-skills.jpg)](https://rishavchanda.io)
-<span><img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sycomusiclover">
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" alt="youtube"><img align="right"  width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="you tube"></a></span>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /> </p>
@@ -41,9 +40,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png"  width="40" height="40"/>html</a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://t4.ftcdn.net/jpg/03/78/51/71/240_F_378517139_6YekhAD6aHLcVkghRIRo6WOrJXpyZZ1W.jpg"  width="40" height="40"/>linux</a>
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrehan&show_icons=true&locale=en&layout=compact" alt="darrehan" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darrehan&show_icons=true&locale=en" alt="darrehan" /></p>
-
+<span><img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sycomusiclover">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrehan&" alt="darrehan" /></p>
