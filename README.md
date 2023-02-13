@@ -9,26 +9,28 @@
 
 <p align="left"> <a href="https://twitter.com/cserehan" target="blank"><img src="https://img.shields.io/twitter/follow/cserehan?logo=twitter&style=for-the-badge" alt="cserehan" /></a> </p>
 
-- 🔭 I’m currently working on **website**
+- 🔭 I’m currently working on website.
 
-- 🌱 I’m currently learning (Android oreo,Web development)
--   sycomusiclover
-- 💬 Ask me about  Android oreo,Webdevelopment,ios and flutter
+- 🌱 I’m currently learning (Android oreo,Web development).
 
-- 📫 How to reach me(https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/)
+- ⚡ sycomusiclover.
 
-- ⚡ Fun fact(sycomusiclover,love to ▶ play guitar 🎸 when its raining outside)
+- 💬 Ask me about  Android oreo,Webdevelopment,ios and flutter.
+
+- 📫 How to reach me.
+
+- ⚡ Fun fact(sycomusiclover,love to ▶ play guitar 🎸 when its raining outside).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cserehan" target="blank"><img align="center" src="" alt="twiter" height="30" width="40" />twiter</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/" target="blank"><img align="center" src="" alt="linkedin" height="30" width="40" />linkedin</a>
-<a href="https://stackoverflow.com/users/19246521" target="blank"><img align="center" src="" alt="19246521" height="30" width="40" />stackoverflow</a>
-<a href="https://instagram.com/https://www.instagram.com/dar.rehan_/" target="blank"><img align="center" src="" alt="instagram" height="30" width="40" />instagram</a>
-<a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" target="blank"><img align="center" src="" alt="youtube" height="30" width="40" />youtube</a>
-<a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="" alt="https://www.hackerrank.com/dashboard" height="30" width="40" />hackerrank</a>
-<a href="https://codeforces.com/profile/sycomusiclover" target="blank"><img align="center" src="" alt="codeforce" height="30" width="40" />codeforces</a>
-<a href="https://leetcode.com/darrehanrasool/" target="blank"><img align="center" src="" alt="leetcode" height="30" width="40" />leetcode</a>
+<a href="https://twitter.com/cserehan" target="blank"><img align="center" src=""  height="30" width="40" />twiter</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/" target="blank"><img align="center" src="" height="30"width="40"/>linkedin</a>
+<a href="https://stackoverflow.com/users/19246521" target="blank"><img align="center" src=""  height="30" width="40" />stackoverflow</a>
+<a href="https://instagram.com/https://www.instagram.com/dar.rehan_/" target="blank"><img align="center" src=""  height="30" width="40" />instagram</a>
+<a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" target="blank"><img align="center" src=""  height="30" width="40" />youtube</a>
+<a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src=""  height="30" width="40" />hackerrank</a>
+<a href="https://codeforces.com/profile/sycomusiclover" target="blank"><img align="center" src=""  height="30" width="40" />codeforces</a>
+<a href="https://leetcode.com/darrehanrasool/" target="blank"><img align="center" src=""  height="30" width="40" />leetcode</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/>bootstrap</a>
