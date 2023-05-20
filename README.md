@@ -1,4 +1,4 @@
-<i><h3 align="center">Hi, Myself  Rehan A passionate developer from kashmir srinager,learning Android oreo,Web development</h3></i>
+<i><h3 align="center">Hi, Myself  Rehan A passionate developer from kashmir srinager,learning web-development</h3></i>
 [![MasterHead](https://www.tynker.com/image/parents/og-1200x630-coding-skills.jpg)](https://rishavchanda.io)
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" alt="youtube"><img align="right"  width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="you tube"></a></span>
  
