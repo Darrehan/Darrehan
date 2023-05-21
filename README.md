@@ -14,7 +14,7 @@
 
 - ⚡ sycomusiclover.
 
-- 💬 Ask me about  Android oreo,Webdevelopment.
+- 💬 Ask me about  Webdevelopment.
 
 - 📫 How to reach me. <a href="mailto:darrehanrasool@gmail.com">  mail me buddy</a>
 
