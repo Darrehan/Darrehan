@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on website.
 
-- 🌱 I’m currently learning (Android oreo,Web development).
+- 🌱 I’m currently learning (Web development).
 
 - ⚡ sycomusiclover.
 
