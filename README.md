@@ -1,7 +1,6 @@
 
 [![MasterHead](https://www.tynker.com/image/parents/og-1200x630-coding-skills.jpg)](https://rishavchanda.io)
- <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" alt="youtube"><img align="right"  width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="you tube"></a></span>
- 
+ <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" alt="youtube"><img align="right"  width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="you tube"></a></span> How to reach me. <a href="mailto:darrehanrasool@gmail.com">  mail me buddy</a>
 <p>As a university student pursuing a degree in Computer Science, I am an enthusiastic full-stack developer proficient in a variety of technologies. With expertise in Laravel 10, MERN stack, and Android development, I possess a diverse skill set that allows me to create comprehensive solutions from end to end. I excel in utilizing Laravel 10 to build robust and scalable back-end systems, leveraging the power of React and Node.js within the MERN stack to craft dynamic and responsive front-end interfaces, and harnessing the capabilities of Android development to create intuitive mobile applications. Beyond coding, I find solace and inspiration in playing the guitar. It serves as a creative outlet and a way to unwind, allowing me to strike a harmonious balance between my love for music and my dedication to computer science. I am driven by the endless possibilities of technology and always strive to expand my knowledge and stay up-to-date with the latest industry trends.</p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /> </p>
@@ -9,12 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cserehan" target="blank"><img src="https://img.shields.io/twitter/follow/cserehan?logo=twitter&style=for-the-badge" alt="cserehan" /><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"  height="30" width="40" /></a></p>
-<i><h3 align="center">hi, myself  rehan a passionate webdeveloper from kashmir srinager,learning web-development and android orio </h3></i>
-- 📫 How to reach me. <a href="mailto:darrehanrasool@gmail.com">  mail me buddy</a>
-- ⚡ Fun fact(sycomusiclover,love to ▶ play guitar 🎸 when its raining outside).
-- 🔭 currently  pursuing b-tech in computer science and learning full stack webdevelopment.
-- ⚡ sycomusiclover(be good person but don't waste time to prove it ).
-- 💬 Ask me about webdevelopment and android development .
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cserehan" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"  height="30" width="40" />twiter</a>
