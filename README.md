@@ -11,7 +11,6 @@
 <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"  height="30" width="40" />instagram</a>
 <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png"  height="30" width="40" />youtube</a>
 <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://th.bing.com/th?id=OSK.e6fca6d1718cd5b4d430e56ed102f96f&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM"  height="30" width="40" />hackerrank</a>
-<a href="https://codeforces.com/profile/sycomusiclover" target="blank"><img align="center" src="https://th.bing.com/th?id=OSK.1c19fe42283ec96061ae65c1ba1c0917&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM"  height="30" width="40" />codeforces</a>
 <a href="https://leetcode.com/darrehanrasool/" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/1600/0*GePc7lo4CF4A3guP.png"  height="30" width="40" />leetcode</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
