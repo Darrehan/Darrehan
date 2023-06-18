@@ -19,8 +19,11 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4785/4785958.png"  width="40" height="40"/>c++</a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/331/331383.png"  width="40" height="40"/>css</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://t3.ftcdn.net/jpg/00/83/05/00/240_F_83050019_PNgUwzBXAsHSORc52wdROmSWNeGEpIh5.jpg"  width="40" height="40"/>git</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png"  width="40" height="40"/>html</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://t4.ftcdn.net/jpg/03/78/51/71/240_F_378517139_6YekhAD6aHLcVkghRIRo6WOrJXpyZZ1W.jpg"  width="40" height="40"/>linux</a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png"  width="40" height="40"/>html</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/java_919854?term=java&page=1&position=3&origin=search&related_id=919854"  width="40" height="40"/>java</a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/php-code_3344351?term=php&page=1&position=12&origin=search&related_id=3344351"  width="40" height="40"/>laravel</a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/android_270780?term=android&page=1&position=12&origin=search&related_id=270780"  width="40" height="40"/>android</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://t4.ftcdn.net/jpg/03/78/51/71/240_F_378517139_6YekhAD6aHLcVkghRIRo6WOrJXpyZZ1W.jpg"  width="40" height="40"/>linux</a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrehan&show_icons=true&locale=en&layout=compact" alt="darrehan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darrehan&show_icons=true&locale=en" alt="darrehan" /></p>
