@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://twitter.com/cserehan" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"  height="30" width="40" />twiter</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="30"width="40"/>linkedin</a>
-<a href="https://stackoverflow.com/users/19246521" target="blank"><img align="center" src="https://as2.ftcdn.net/v2/jpg/05/50/01/23/1000_F_550012332_0OXL7ns1mvCsNIe1SZaLK0znvLRQMupU.jpg"  height="30" width="40" />stackoverflow</a>
 <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"  height="30" width="40" />instagram</a>
 <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png"  height="30" width="40" />youtube</a>
 <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://th.bing.com/th?id=OSK.e6fca6d1718cd5b4d430e56ed102f96f&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM"  height="30" width="40" />hackerrank</a>
