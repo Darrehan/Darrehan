@@ -12,6 +12,7 @@
 <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png"  height="30" width="40" />youtube</a>
 <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://th.bing.com/th?id=OSK.e6fca6d1718cd5b4d430e56ed102f96f&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM"  height="30" width="40" />hackerrank</a>
 <a href="https://leetcode.com/darrehanrasool/" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/1600/0*GePc7lo4CF4A3guP.png"  height="30" width="40" />leetcode</a>
+ <a href="https://www.interviewbit.com/practice/" target="blank"><img align="center" src="https://assets.interviewbit.com/packs/images/logo.87a398.svg"  height="30" width="40" />interviewbit</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40" height="40"/>bootstrap</a>
