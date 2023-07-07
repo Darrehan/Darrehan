@@ -24,6 +24,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://t4.ftcdn.net/jpg/03/78/51/71/240_F_378517139_6YekhAD6aHLcVkghRIRo6WOrJXpyZZ1W.jpg"  width="40" height="40"/>linux</a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrehan&show_icons=true&locale=en&layout=compact" alt="darrehan" /></p>
- <span><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darrehan&show_icons=true&locale=en" alt="darrehan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrehan&" alt="darrehan" /></p></span>
+ <span><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=darrehan&show_icons=true&locale=en" alt="darrehan" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrehan&" alt="darrehan" /></p></span>
 
