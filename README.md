@@ -70,11 +70,7 @@
   </a>
 </p>
 </div>
-<div align="center">
-  <p align="center">
-    <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
-  </p>
-</div>
+
 
 <h1> Connect with me:</h1>
 
