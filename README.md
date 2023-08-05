@@ -96,15 +96,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-
-<p align="center">
-    <a href="mailto:darrehanrasool@gmail.com">
-        <img src="Email.png" alt="Email">
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/">
-        <img src="LikedIn.png" alt="LinkedIn">
-    </a>
-</p>
 <div align="center">
   <p align="center">
   <div> 
