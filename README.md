@@ -11,8 +11,12 @@
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
   </a>
-  
   </div>
+  <div align="center">
+  <p align="center">
+    <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
+  </p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
@@ -115,6 +119,11 @@
 <h3><em><p>
 As a university student pursuing a degree in computer science, i am an enthusiastic full-stack developer proficient in a variety of technologies. With expertise in Laravel 10, mern stack, and Android development, I possess a diverse skill set that allows me to create comprehensive solutions from end to end. I excel in utilizing Laravel 10 to build robust and scalable back-end systems, leveraging the power of React and Node.js within the mern stack to craft dynamic and responsive front-end interfaces, and harnessing the capabilities of Android development to create intuitive mobile applications. Beyond coding, I find solace and inspiration in playing the guitar. It serves as a creative outlet and a way to unwind, allowing me to strike a harmonious balance between my love for music and my dedication to computer science. I am driven by the endless possibilities of technology and always strive to expand my knowledge and stay up-to-date with the latest industry trends.
 </p></em></h3>
+<div align="center">
+  <p align="center">
+    <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
+  </p>
+</div>
 <p align="center"> 
  <h1>Visitors:</h1><br>
 <img  align="center" src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
