@@ -84,7 +84,7 @@
   <a href="https://twitter.com/Darehan">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-    <a href="https://stackoverflow.com/users/22248754/dawid-olko">
+    <a href="https://stackoverflow.com/">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/">
@@ -114,10 +114,10 @@
 
 <p align="center"> 
   Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Darrehan-dev/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
 </p>
 <p>As a university student pursuing a degree in computer science, i am an enthusiastic full-stack developer proficient in a variety of technologies. With expertise in Laravel 10, mern stack, and Android development, I possess a diverse skill set that allows me to create comprehensive solutions from end to end. I excel in utilizing Laravel 10 to build robust and scalable back-end systems, leveraging the power of React and Node.js within the mern stack to craft dynamic and responsive front-end interfaces, and harnessing the capabilities of Android development to create intuitive mobile applications. Beyond coding, I find solace and inspiration in playing the guitar. It serves as a creative outlet and a way to unwind, allowing me to strike a harmonious balance between my love for music and my dedication to computer science. I am driven by the endless possibilities of technology and always strive to expand my knowledge and stay up-to-date with the latest industry trends.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a> </p>
 
 
