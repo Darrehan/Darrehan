@@ -12,12 +12,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
   </a>
   </div>
-  <div align="center">
-  <p align="center">
-    <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
-  </p>
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
@@ -113,11 +107,6 @@
     <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </div>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a>
-    <div align="center">
-  <p align="center">
-    <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
-  </p>
-</div>
   </p>
  </p>
 </div>
