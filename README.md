@@ -29,4 +29,131 @@
 <!--    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrehan&show_icons=true&locale=en&layout=compact" alt="darrehan" /></p> -->
  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darrehan&show_icons=true&locale=en" alt="darrehan" /></p>
  </span>
+## **My profile status here:**
+
+<div align="center">
+  <a href="https://github.com/Darrehan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
+  </a>
+  
+  </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
+</div>
+
+<div align="center">
+  <a href="https://github.com/Darrehan">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  </a>
+  
+</div>
+  
+<div align="center">
+  <a href="https://github.com/Darehan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darrehan&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darehan&theme=slateorange" />
+  </a>
+</div>
+
+## **Skills & Technologies:**
+
+<div align="center">
+  <p align="center">
+    <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/Darrehan">
+    <img src="https://img.shields.io/badge/Languages:-orange" />
+  </a>
+</p>
+</div>
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/Darrehan?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
+  </a>
+</p>
+</div>
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/Darrehan">
+    <img src="https://img.shields.io/badge/Development:-orange" />
+  </a>
+</p>
+</div>
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/Darrehan?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea" /> 
+  </a>
+</p>
+</div>
+
+## **Connect with me:**
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/Darrehan">
+    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+  </a>
+</p>
+</div>
+
+<p align="center">
+  <a href="https://twitter.com/Darehan">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+    <a href="https://stackoverflow.com/users/22248754/dawid-olko">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+  <a href="https://www.instagram.com/dawid_olko">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+<p align="center">
+    <a href="mailto:poczta@dawidolko.pl">
+        <img src="Email.png" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/dawidolko/">
+        <img src="LikedIn.png" alt="LinkedIn">
+    </a>
+</p>
+<div align="center">
+  <p align="center">
+  <div> 
+    <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/dawidolko/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:poczta@dawidolko.pl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
+    <a href="https://instagram.com/dawid_olko" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/dawio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  </div>
+  </p>
+</div>
+
+<p align="center"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/Darrehan-dev/count.svg" />
+</p>
+
+<p align="center">
+  <img src="eesa.gif">
+</p>
+
+<p align="center">
+  <img src="assets/Bottom_down.svg">
+</p>
 
