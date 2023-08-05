@@ -1,4 +1,4 @@
-[![MasterHead](https://www.tynker.com/image/parents/og-1200x630-coding-skills.jpg)](https://rishavchanda.io)
+
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
   </a>
