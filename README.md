@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img scr="" alt="Dar Rehan Rasool">
 </div>
 </p>
