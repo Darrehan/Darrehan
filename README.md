@@ -2,6 +2,11 @@
   <img src="https://images.wallpapersden.com/image/download/arya-stark-game-of-thrones-season-8-poster_a2hramaUmZqaraWkpJRmaGtrrWxrbQ.jpg" alt="Dar Rehan Rasool">
 </div>
 <h1>Git hub stats buddy:</h1>
+<div align="center">
+  <p align="center">
+    <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
+  </p>
+</div>
   <div align="center">
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
@@ -112,7 +117,7 @@ As a university student pursuing a degree in computer science, i am an enthusias
 </p></em></h3>
 <p align="center"> 
  <h1>Visitors:</h1><br>
-<img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
+<img  align="center" src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
 <div align="center">
   <p align="center">
     <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
