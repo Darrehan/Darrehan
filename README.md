@@ -3,8 +3,8 @@
 </div>
 <h1>Git hub stats buddy:</h1>
   <div align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
+  <a href="https://github.com/">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=slateorange" />
   </a>
   </div>
 <div align="center">
