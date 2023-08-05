@@ -1,6 +1,29 @@
-
 [![MasterHead](https://www.tynker.com/image/parents/og-1200x630-coding-skills.jpg)](https://rishavchanda.io)
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" alt="youtube"><img align="right"  width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="you tube"></a></span> How to reach me. <a href="mailto:darrehanrasool@gmail.com"> mail me buddy</a>
+ <div align="center">
+  <a href="https://github.com/Darrehan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
+  </a>
+  
+  </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
+</div>
+
+<div align="center">
+  <a href="https://github.com/Darrehan">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  </a>
+  
+</div>
+  
+<div align="center">
+  <a href="https://github.com/Darehan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darrehan&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darehan&theme=slateorange" />
+  </a>
+</div>
 <p>As a university student pursuing a degree in computer science, i am an enthusiastic full-stack developer proficient in a variety of technologies. With expertise in Laravel 10, mern stack, and Android development, I possess a diverse skill set that allows me to create comprehensive solutions from end to end. I excel in utilizing Laravel 10 to build robust and scalable back-end systems, leveraging the power of React and Node.js within the mern stack to craft dynamic and responsive front-end interfaces, and harnessing the capabilities of Android development to create intuitive mobile applications. Beyond coding, I find solace and inspiration in playing the guitar. It serves as a creative outlet and a way to unwind, allowing me to strike a harmonious balance between my love for music and my dedication to computer science. I am driven by the endless possibilities of technology and always strive to expand my knowledge and stay up-to-date with the latest industry trends.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a> </p>
@@ -29,32 +52,9 @@
 <!--    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrehan&show_icons=true&locale=en&layout=compact" alt="darrehan" /></p> -->
  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darrehan&show_icons=true&locale=en" alt="darrehan" /></p>
  </span>
-## **My profile status here:**
+## My profile status here:
 
-<div align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
-  </a>
-  
-  </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
-</div>
-
-<div align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
-  
-</div>
-  
-<div align="center">
-  <a href="https://github.com/Darehan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darrehan&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darehan&theme=slateorange" />
-  </a>
-</div>
 
 ## **Skills & Technologies:**
 
