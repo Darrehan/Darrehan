@@ -1,4 +1,4 @@
-
+  <div align="center">
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
   </a>
