@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<h1>Skills & Technologies:</h1> 
+<h1>Skills & Technologies:</h1>
 
 <div align="center">
   <p align="center">
@@ -107,16 +107,10 @@
   </p>
  </p>
 </div>
-<h3><em><p>As a university student pursuing a degree in computer science, i am an enthusiastic full-stack developer proficient in a variety of technologies. With expertise in Laravel 10, mern stack, and Android development, I possess a diverse skill set that allows me to create comprehensive solutions from end to end. I excel in utilizing Laravel 10 to build robust and scalable back-end systems, leveraging the power of React and Node.js within the mern stack to craft dynamic and responsive front-end interfaces, and harnessing the capabilities of Android development to create intuitive mobile applications. Beyond coding, I find solace and inspiration in playing the guitar. It serves as a creative outlet and a way to unwind, allowing me to strike a harmonious balance between my love for music and my dedication to computer science. I am driven by the endless possibilities of technology and always strive to expand my knowledge and stay up-to-date with the latest industry trends.</p></em></h3>
+<h3><em><p>
+As a university student pursuing a degree in computer science, i am an enthusiastic full-stack developer proficient in a variety of technologies. With expertise in Laravel 10, mern stack, and Android development, I possess a diverse skill set that allows me to create comprehensive solutions from end to end. I excel in utilizing Laravel 10 to build robust and scalable back-end systems, leveraging the power of React and Node.js within the mern stack to craft dynamic and responsive front-end interfaces, and harnessing the capabilities of Android development to create intuitive mobile applications. Beyond coding, I find solace and inspiration in playing the guitar. It serves as a creative outlet and a way to unwind, allowing me to strike a harmonious balance between my love for music and my dedication to computer science. I am driven by the endless possibilities of technology and always strive to expand my knowledge and stay up-to-date with the latest industry trends.
+</p></em></h3>
 <p align="center"> 
  <h1>Visitors:</h1><br>
 <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
 </p>
-
-
-
-
-
-
-
-
