@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://images.wallpapersden.com/image/download/arya-stark-game-of-thrones-season-8-poster_a2hramaUmZqaraWkpJRmaGtrrWxrbQ.jpg" alt="Dar Rehan Rasool">
 </div>
-<h1>Git hub stats buddy:</h1>
+<!-- <h1>Git hub stats buddy:</h1> -->
   <div align="center">
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
@@ -72,7 +72,6 @@
 </p>
 </div>
 
-
 <h1> Connect with me Buddy :</h1>
 
 <div align="center">
@@ -107,9 +106,6 @@
   </p>
  </p>
 </div>
-<marquee><em>
-Asalamu Aalay kum.
-</em></marquee>
 <p align="center"> 
  <h1>Visitors:</h1><br>
 <img  align="center" src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
