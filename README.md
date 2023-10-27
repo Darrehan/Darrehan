@@ -107,8 +107,8 @@
   </p>
  </p>
 </div>
-<p align="center"> Visitors:</p>
-<div> <img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /></div>
+<h2 align="center"> Visitors:</h2>
+<div align="center"> <img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /></div>
 <div align="center">
   <p align="center">
     <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
