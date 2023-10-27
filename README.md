@@ -28,7 +28,7 @@
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a>
   </p>
-<h1><b><em>Skills & Technologies:</em></b></h1>
+<h1><b><em>languages:</em></b></h1>
 
 <div align="center">
   <p align="center">
