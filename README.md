@@ -92,7 +92,7 @@
   <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/">
+  <a href="https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
