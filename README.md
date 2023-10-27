@@ -104,8 +104,8 @@
     <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </div>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a>
-  </p>
+  <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a>
+  </p> -->
  </p>
 </div>
 <h1><b><em>visitors:</em></b></h1>
