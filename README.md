@@ -26,8 +26,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darehan&theme=slateorange" />
   </a>
 </div>
-
-<h1>Skills & Technologies:</h1>
+<h1><b><em>Skills & Technologies:</em></b></h1>
 
 <div align="center">
   <p align="center">
@@ -73,7 +72,7 @@
 </p>
 </div>
 
-<h1><b><em>social media :</em></b></h1>
+<h1><b><em>social media:</em></b></h1>
 
 <div align="center">
   <p align="center">
@@ -107,7 +106,7 @@
   </p>
  </p>
 </div>
-<h2 align="center"> Visitors:</h2>
+<h1><b><em>visitors:</em></b></h1>
 <div align="center"> <img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /></div>
 <div align="center">
   <!-- <p align="center">
