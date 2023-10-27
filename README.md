@@ -52,7 +52,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,php,laravel,mongodb,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,php,laravel,androidstudio,mongodb,react,nodejs" />
   </a>
 </p>
 </div>
@@ -73,13 +73,7 @@
 </p>
 </div>
 
-<h1><b><em><div align="center">
-  <p align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
-  </a>
-</p>
-</div></em></b></h1>
+<h1><b><em>social media :</em></b></h1>
 
 <div align="center">
   <p align="center">
