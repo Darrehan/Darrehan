@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- <img src="https://images.wallpapersden.com/image/download/arya-stark-game-of-thrones-season-8-poster_a2hramaUmZqaraWkpJRmaGtrrWxrbQ.jpg" alt="Dar Rehan Rasool"> -->
-<!--   <img src="https://avatars.githubusercontent.com/u/95292119?v=4" alt="Dar Rehan Rasool"> -->
+  <img src="https://images.wallpapersden.com/image/download/arya-stark-game-of-thrones-season-8-poster_a2hramaUmZqaraWkpJRmaGtrrWxrbQ.jpg" alt="Dar Rehan Rasool">
 </div>
 <!-- <h1>Git hub stats buddy:</h1> -->
   <div align="center">
@@ -104,14 +103,12 @@
     <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </div>
-  <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a>
-  </p> -->
  </p>
 </div>
 <h1><b><em>visitors:</em></b></h1>
 <div align="center"> <img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /></div>
 <div align="center">
-  <!-- <p align="center">
+  <p align="center">
     <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
-  </p> -->
+  </p>
 </div>
