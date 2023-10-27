@@ -52,7 +52,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,php,laravel,androidstudio,mongodb,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,php,laravel,androidstudio,mongodb,react,nodejs,jquery" />
   </a>
 </p>
 </div>
@@ -68,7 +68,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,linux,idea" /> 
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,linux,idea,github" /> 
   </a>
 </p>
 </div>
@@ -82,7 +82,6 @@
   </a>
 </p>
 </div>
-
 <p align="center">
   <a href="https://twitter.com/Darehan">
     <img src="https://skillicons.dev/icons?i=twitter" />
@@ -92,6 +91,9 @@
   </a>
   <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 <div align="center">
