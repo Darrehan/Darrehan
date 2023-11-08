@@ -1,7 +1,7 @@
-<!--<div align="center">
+<div align="center">
   <img src="https://images.wallpapersden.com/image/download/arya-stark-game-of-thrones-season-8-poster_a2hramaUmZqaraWkpJRmaGtrrWxrbQ.jpg" alt="Dar Rehan Rasool">
-</div>-->
-<!-- <h1>Git hub stats buddy:</h1> -->
+</div>
+ <h1>Git hub stats buddy:</h1> 
   <div align="center">
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
