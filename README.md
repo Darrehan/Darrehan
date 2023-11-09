@@ -52,7 +52,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,linux,idea,github" /> 
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github" /> 
   </a>
 </p>
 </div>
