@@ -36,7 +36,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,php,laravel,androidstudio,mongodb,react,nodejs,jquery" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,androidstudio,mongodb,react,nodejs,jquery" />
   </a>
 </p>
 </div>
