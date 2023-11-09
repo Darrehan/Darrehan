@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://images.wallpapersden.com/image/download/arya-stark-game-of-thrones-season-8-poster_a2hramaUmZqaraWkpJRmaGtrrWxrbQ.jpg" alt="Dar Rehan Rasool">
 </div>
- <h1>Git hub stats buddy:</h1> 
-  <div align="center">
+<div align="center">
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
-  </a>
-  </div>
+ </a>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
