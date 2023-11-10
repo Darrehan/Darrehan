@@ -1,10 +1,10 @@
-<div align="center"> <img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /></div>
+
 <div align="center">
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
  </a>
 </div>
-<br>
+<div align="center"> <img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /></div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
@@ -13,7 +13,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
 </div>
-<br>
 <div align="center">
   <a href="https://github.com/Darehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darrehan&theme=slateorange" />
@@ -36,7 +35,6 @@
   </a>
 </p>
 </div>
-
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
@@ -44,7 +42,6 @@
   </a>
 </p>
 </div>
-
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
@@ -84,8 +81,8 @@
   </div>
  </p>
 </div>
-<div align="center">
+<!-- <div align="center">
   <p align="center">
     <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
   </p>
-</div>
+</div> -->
