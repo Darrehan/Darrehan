@@ -23,11 +23,6 @@
   </p>
 <div align="center">
   <p align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-  </p>
-</div>
-<div align="center">
-  <p align="center">
   <a href="https://github.com/Darrehan">
     <img src="https://img.shields.io/badge/Languages:-orange" />
   </a>
