@@ -27,7 +27,6 @@
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
   </p>
 </div>
-<br>
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
