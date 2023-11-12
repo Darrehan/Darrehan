@@ -5,8 +5,8 @@
  </a>
 </div>
 <p align="center">
-<!--   <a href="https://github.com/sponsors/darrehan"> </a> -->
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/></p>
+   <a href="https://github.com/sponsors/darrehan">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> </a></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
