@@ -19,8 +19,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darehan&theme=slateorange" />
   </a>
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a>
-  </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a> </p
+ 
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
@@ -81,6 +81,11 @@
   </div>
  </p>
 </div>
+<p align="center">
+  <a href="https://github.com/sponsors/ryo-ma">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
+  </a>
+</p>
 <!-- <div align="center">
   <p align="center">
     <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
