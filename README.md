@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://github.com/Darehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darrehan&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darehan&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darrehan&theme=slateorange" />
   </a>
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a> </p
