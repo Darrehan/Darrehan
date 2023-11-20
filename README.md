@@ -1,4 +1,4 @@
-
+<div align="center"> <img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /></div>
 <div align="center">
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
@@ -94,11 +94,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-<div align="center"> <img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" /></div>
 <p align="center">
    <a href="https://github.com/sponsors/darrehan">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> </a></p>
-
  <div align="center">
   <p align="center">
     <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/>
