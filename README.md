@@ -33,7 +33,21 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,css,html,js,androidstudio,mongodb,react,nodejs,jquery" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js" />
+  </a>
+</p>
+</div>
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/Darrehan">
+    <img src="https://img.shields.io/badge/Frameworks:-orange" />
+  </a>
+</p>
+</div>
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/Darrehan?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,expressjs,bootstrap" />
   </a>
 </p>
 </div>
@@ -47,7 +61,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github" /> 
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb,android" /> 
   </a>
 </p>
 </div>
