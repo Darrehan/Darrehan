@@ -73,13 +73,7 @@
   </a>
 </p>
 </div>
-<div align="center">
-  <p align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
-  </a>
-</p>
-</div>
+
 
 <p align="center">
    <a href="https://github.com/sponsors/darrehan">
