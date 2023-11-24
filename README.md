@@ -55,7 +55,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,expressjs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,expressjs,bootstrap,postgres,laravel" />
   </a>
 </p>
 </div>
@@ -69,7 +69,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb" /> 
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb,vite,sqlite" /> 
   </a>
 </p>
 </div>
@@ -80,23 +80,7 @@
   </a>
 </p>
 </div>
-<p align="center">
-  <a href="https://twitter.com/Darehan">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-    <a href="https://stackoverflow.com/">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
-  <a href="https://instagram.com/https://www.instagram.com/dar.rehan_/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-    <a href="https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-</p>
+
 <p align="center">
    <a href="https://github.com/sponsors/darrehan">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> </a></p>
