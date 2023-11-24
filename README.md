@@ -93,6 +93,9 @@
   <a href="https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+    <a href="https://www.linkedin.com/in/dar-rehan-rasool-66a14222a/">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
 </p>
 <p align="center">
    <a href="https://github.com/sponsors/darrehan">
