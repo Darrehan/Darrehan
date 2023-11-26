@@ -41,7 +41,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,kotlin,php" />
   </a>
 </p>
 </div>
