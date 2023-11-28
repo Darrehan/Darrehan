@@ -30,7 +30,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darrehan&theme=slateorange" />
   </a>
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan" alt="darrehan" /></a> </p
+
+<p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p>
  
 <div align="center">
   <p align="center">
