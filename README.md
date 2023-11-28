@@ -20,8 +20,6 @@
   </a>
 </div>
 
-<p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p>
- 
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
@@ -74,5 +72,6 @@
     <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </div>
  </p>
-</div>
-<!-- <img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/> -->
+    </div>
+  <p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p> 
+<!--<img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/> -->
