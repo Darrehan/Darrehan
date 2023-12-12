@@ -9,6 +9,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
 </div>
+ <p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p> 
 <div align="center">
   <a href="https://github.com/Darehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darrehan&theme=slateorange" />
@@ -75,5 +76,5 @@
   </div>
  </p>
     </div>
-  <p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p> 
+ 
 <!--<img src="https://count.getloli.com/get/@Darrehan.github.readme" width="200"/> -->
