@@ -1,9 +1,9 @@
-<div align="center"><img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
-</div>
 <div align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;cse+%7C+Btech+Student+%7C+Software+Engineer;Data+Science+%7C+Machine+Learning+%7C+MusicLover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;CSE+Btech+Student+%7C+Software+Engineer;Data+Science+%7C+Machine+Learning+%7C+MusicLover" alt="Typing SVG" />
 </a></div>
+<div align="center"><img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
+</div>
 <div align="center">
     <a href="https://github.com/Darrehan">
     <img src="https://github-stats-alpha.vercel.app/api?username=Darrehan&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -14,13 +14,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
 </div>
-=======
-
-
-
->>>>>>> ff9d728f7c0da4f3cda67e1efab10a93b81a7275
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
