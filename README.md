@@ -75,8 +75,8 @@
 </div>
  <p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p> 
 <details>
-<summary>📈 Bleeding Soul</summary>
-<h3><em>introvert & listening to own heart beat:</em></h3>
+<summary>🎶 Music lover </summary>
+    <summary>introvert & listening to own heart🎶beat: </summary>
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
