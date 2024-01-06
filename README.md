@@ -66,7 +66,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb,vite,sqlite,postman" /> 
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb,vite,sqlite,postman,androidstudio" /> 
   </a>
 </p>
 </div>
