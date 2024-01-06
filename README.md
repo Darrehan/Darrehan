@@ -11,6 +11,7 @@
   <a href="https://github.com/Darrehan">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
+  
 </div>
 <div align="center">
     <a href="https://github.com/Darrehan">
