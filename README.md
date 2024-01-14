@@ -2,10 +2,8 @@
 <a href="https://github.com/Darrehan">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;Computer+science+%7C+Fullstack+Engineer;Data+Science+%7C+Machine+Learning+%7C+Sofware Engenieer" alt="Typing SVG" />
 </a></div>
-<div align="center"><img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
-</div>
 
-
+![Rehan's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Darrehan&theme=react-dark&custom_title=Rehan%27s%20Contributions&radius=10&area=true)
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
@@ -48,8 +46,7 @@
   </a>
 </p>
 </div>
-
-![Rehan's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Darrehan&theme=react-dark&custom_title=Rehan%27s%20Contributions&radius=10&area=true)
-
+<div align="center"><img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
+</div>
 
 
