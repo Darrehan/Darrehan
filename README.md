@@ -38,7 +38,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,kotlin,php" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js" />
   </a>
 </p>
 </div>
@@ -52,7 +52,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,expressjs,bootstrap,postgres,laravel" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,expressjs,bootstrap,postgres" />
   </a>
 </p>
 </div>
@@ -66,7 +66,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb,vite,sqlite,postman,androidstudio" /> 
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb,postgres,sqllite,postman,vite" /> 
   </a>
 </p>
 </div>
