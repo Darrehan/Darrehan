@@ -52,7 +52,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,expressjs,bootstrap,postgres" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,expressjs,bootstrap" />
   </a>
 </p>
 </div>
@@ -66,7 +66,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb,postgres,sqllite,postman,vite" /> 
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb,postgres,postman,vite" /> 
   </a>
 </p>
 </div>
