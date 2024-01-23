@@ -20,8 +20,6 @@
  </a>
 </div>
 <p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p>
-
-
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
