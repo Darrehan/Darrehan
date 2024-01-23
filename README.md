@@ -53,7 +53,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
-    <img src="https://img.shields.io/badge/Development:-orange" />
+    <img src="https://img.shields.io/badge/Developments:-orange" />
   </a>
 </p>
 </div>
