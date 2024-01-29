@@ -2,7 +2,7 @@
 </div>
 <div align="left">
 <a href="https://github.com/Darrehan">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;Computer+science+%7C+Fullstack+Engineer;Data+Science+%7C+Machine+Learning+%7C+Sofware Engenieer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;Computer+science+Learner+%7C+Fullstack+Engineer;Data+Science+%7C+Machine+Learning+%7C+Sofware Engenieer" alt="Typing SVG" />
 </a></div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrehan&langs_count=8&theme=great-gatsby" alt="Language stats.">
