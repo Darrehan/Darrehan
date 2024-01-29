@@ -12,14 +12,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
 </div>
-
- ![Rehan's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Darrehan&theme=react-dark&custom_title=Rehan%27s%20Contributions&radius=10&area=true)
 <div align="center">
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
  </a>
 </div>
-<p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p>
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
@@ -62,6 +59,9 @@
   </a>
 </p>
 </div>
+<p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p>
+
+ ![Rehan's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Darrehan&theme=react-dark&custom_title=Rehan%27s%20Contributions&radius=10&area=true)
  
 
 
