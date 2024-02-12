@@ -12,11 +12,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
 </div>
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/Darrehan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
  </a>
-</div> -->
+</div>
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
