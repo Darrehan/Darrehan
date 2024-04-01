@@ -19,11 +19,7 @@
 </div>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-<div align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darrehan&theme=slateorange" />
- </a>
-</div>
+
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
@@ -66,6 +62,10 @@
   </a>
 </p>
 </div>
+
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <p align="center"> <a href="https://github.com/darrehan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=darkhub" alt="darrehan" /></a> </p>
 
 
