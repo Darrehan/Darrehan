@@ -1,8 +1,6 @@
-<div align="left"><img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
+ <span><div align="left"><img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
 </div>
-<!-- <div align="center"><a href="https://portfolio-webapplication.vercel.app/" style="text-decoration-line: none;background-color: black;
-  color: white;">Rehan's Portfolio</a></div> -->
-<div align="left">
+<div align="left"> </span>
 <a href="https://github.com/Darrehan">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;Computer+science+Learner+%7C+Fullstack+Engineer;Data+Science+%7C+Machine+Learning+%7C+Software Engenieer" alt="Typing SVG" />
 </a></div>
