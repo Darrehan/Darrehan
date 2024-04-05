@@ -12,6 +12,7 @@
 </div>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <div align="center">
   <a href="https://github.com/Darrehan">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Darrehan&theme=rising-sun&hide_border=true&exclude_days=Sun" />
