@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;Computer+science+Learner+%7C+Fullstack+Engineer;Data+Science+%7C+Machine+Learning+%7C+Software Engineer" alt="Typing SVG" />
 </a></div>
 
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
