@@ -37,46 +37,18 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan">
-    <img src="https://img.shields.io/badge/Languages:-orange" />
+    <img src="https://img.shields.io/badge/Tech Stack : Languages Frameworks Development Tools :-orange" />
   </a>
 </p>
 </div>
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js" />
-  </a>
-</p>
- 
-</div>
-<div align="center">
-  <p align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="https://img.shields.io/badge/Frameworks:-orange" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,nodejs,jquery,expressjs,bootstrap,git,vscode,linux,github,mongodb,vite,sqlite,postman,postgres" />
   </a>
 </p>
 </div>
-<div align="center">
-  <p align="center">
-  <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,jquery,expressjs,bootstrap" />
-  </a>
-</p>
-</div>
-<div align="center">
-  <p align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="https://img.shields.io/badge/Developments:-orange" />
-  </a>
-</p>
-</div>
-<div align="center">
-  <p align="center">
-  <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,github,mongodb,vite,sqlite,postman,postgres" /> 
-  </a>
-</p>
-</div>
+
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
