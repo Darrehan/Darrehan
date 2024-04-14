@@ -1,9 +1,14 @@
-
  <div align="center">
-  <p align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="https://img.shields.io/badge/Portfolio Application-orange" />
-  </a>
+ <p align="center">
+<span>
+<a href=""><img src="https://img.shields.io/badge/Linkedin-orange" /></a> 
+ <a href=""><img src="https://img.shields.io/badge/Portfolio-orange" /></a> 
+ <a href=""><img src="https://img.shields.io/badge/Instagram-orange" /></a>
+ <a href=""><img src="https://img.shields.io/badge/Twitter-orange" /></a> 
+ <a href=""><img src="https://img.shields.io/badge/Rehan's Blog-orange" /></a>
+ <a href=""><img src="https://img.shields.io/badge/Youtube-orange" /></a>
+ <a href=""><img src="https://img.shields.io/badge/Projects-orange" /></a>
+</span>  
 </p>
 </div>
  <span><div align="left"><img  src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
@@ -37,7 +42,6 @@
 <span>
 <img src="https://img.shields.io/badge/Tech Stack -orange" /> <img src="https://img.shields.io/badge/Languages-orange" /> <img src="https://img.shields.io/badge/Frameworks-orange" /> <img src="https://img.shields.io/badge/Tools -orange" /> 
 </span>  
- 
 </p>
 </div>
 <div align="center">
