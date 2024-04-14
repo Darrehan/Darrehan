@@ -1,7 +1,7 @@
 <div align="left">
   <p align="left">
   <a href="https://github.com/Darrehan">
-    <img src="https://img.shields.io/badge/Portfolio Web App-orange" />
+    <img src="https://img.shields.io/badge/Portfolio Application-orange" />
   </a>
 </p>
 </div>
