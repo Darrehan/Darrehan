@@ -1,7 +1,7 @@
  <div align="center">
  <p align="center">
 <span>
-<a href=""><img src="https://img.shields.io/badge/Linkedin-orange" /></a> 
+<a href="www.linkedin.com/in/darrehanrasool"><img src="https://img.shields.io/badge/Linkedin-orange" /></a> 
  <a href=""><img src="https://img.shields.io/badge/Portfolio-orange" /></a> 
  <a href=""><img src="https://img.shields.io/badge/Instagram-orange" /></a>
  <a href=""><img src="https://img.shields.io/badge/Twitter-orange" /></a> 
