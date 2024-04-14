@@ -40,7 +40,7 @@
 <div align="center">
   <p align="center">
 <span>
-<img src="https://img.shields.io/badge/Tech Stack -orange" /> <img src="https://img.shields.io/badge/Languages-orange" /> <img src="https://img.shields.io/badge/Frameworks-orange" /> <img src="https://img.shields.io/badge/Tools -orange" /> 
+<img src="https://img.shields.io/badge/Software Arsenal -orange" />
 </span>  
 </p>
 </div>
