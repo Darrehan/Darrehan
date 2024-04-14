@@ -36,9 +36,11 @@
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/Darrehan">
-    <img src="https://img.shields.io/badge/Tech Stack : Languages Frameworks Development Tools :-orange" />
-  </a>
+<span>
+<img src="https://img.shields.io/badge/Tech Stack -orange" /> <img src="https://img.shields.io/badge/Languages-orange" />  <img src="https://img.shields.io/badge/Frameworks-orange" /> 
+ <img src="https://img.shields.io/badge/Development" />
+</span>  
+ 
 </p>
 </div>
 <div align="center">
