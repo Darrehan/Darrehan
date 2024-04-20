@@ -10,7 +10,6 @@
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Youtube-orange" /></a> 
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/ML Projects-orange" /></a> 
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Web Projects -orange" /></a> 
- <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Android Projects-orange" /></a> 
 </span>  
 </p>
 </div>
