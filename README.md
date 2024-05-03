@@ -37,7 +37,8 @@
  <a href=""><img src="https://img.shields.io/badge/Rehan's Blog-orange" /></a>
  <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Email-green" /></a> 
  <a href=""><img src="https://img.shields.io/badge/Lets Talk Buddy-orange" /></a>
- <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Youtube-green" /></a> 
+ <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Youtube-green" /></a>
+ <a href=""><img src="https://img.shields.io/badge/Youtube-orange" /></a>
 </span>  
 </p>
 </div>
