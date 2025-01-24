@@ -34,7 +34,8 @@
  <div align="center">
  <p align="center">
 <span>
- <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Resume-green" /></a> 
+ <a href="https://www.youtube.com/@RehansOdyssey"><img src="https://img.shields.io/badge/Youtube 1-green" /></a>
+  <a href="https://www.youtube.com/@EchoesofRehan"><img src="https://img.shields.io/badge/V\Youtube 2-orange" /></a>
  <a href=""><img src="https://img.shields.io/badge/Portfolio-orange" /></a>
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/ML Projects-green" /></a> 
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Web Projects -orange" /></a> 
@@ -44,8 +45,9 @@
  <a href=""><img src="https://img.shields.io/badge/Rehan's Blog-orange" /></a>
  <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Email-green" /></a> 
  <a href=""><img src="https://img.shields.io/badge/Lets Talk Buddy-orange" /></a>
- <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Youtube-green" /></a>
- <a href=""><img src="https://img.shields.io/badge/VibeVault-orange" /></a>
+ <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Resume-green" /></a> 
+
+
 </span>  
 </p>
 </div>
