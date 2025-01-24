@@ -35,17 +35,17 @@
  <p align="center">
 <span>
  <a href="https://www.youtube.com/@RehansOdyssey"><img src="https://img.shields.io/badge/Youtube 1-green" /></a>
-  <a href="https://www.youtube.com/@EchoesofRehan"><img src="https://img.shields.io/badge/V\Youtube 2-orange" /></a>
- <a href=""><img src="https://img.shields.io/badge/Portfolio-orange" /></a>
- <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/ML Projects-green" /></a> 
- <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Web Projects -orange" /></a> 
- <a href="https://www.linkedin.com/in/darrehanrasool/"><img src="https://img.shields.io/badge/Linkedin-green" /></a> 
- <a href="https://www.instagram.com/dar.rehan_/"><img src="https://img.shields.io/badge/Instagram-orange" /></a>
- <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Twitter-green" /></a> 
- <a href=""><img src="https://img.shields.io/badge/Rehan's Blog-orange" /></a>
- <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Email-green" /></a> 
- <a href=""><img src="https://img.shields.io/badge/Lets Talk Buddy-orange" /></a>
- <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Resume-green" /></a> 
+  <a href="https://www.youtube.com/@EchoesofRehan"><img src="https://img.shields.io/badge/Youtube 2-orange" /></a>
+ <a href=""><img src="https://img.shields.io/badge/Portfolio-green" /></a>
+ <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/ML Projects-orange" /></a> 
+ <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Web Projects -green" /></a> 
+ <a href="https://www.linkedin.com/in/darrehanrasool/"><img src="https://img.shields.io/badge/Linkedin-orange" /></a> 
+ <a href="https://www.instagram.com/dar.rehan_/"><img src="https://img.shields.io/badge/Instagram-green" /></a>
+ <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Twitter-orange" /></a> 
+ <a href=""><img src="https://img.shields.io/badge/Rehan's Blog-green" /></a>
+ <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Email-orange" /></a> 
+ <a href=""><img src="https://img.shields.io/badge/Lets Talk Buddy-green" /></a>
+ <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Resume-orange" /></a> 
 
 
 </span>  
