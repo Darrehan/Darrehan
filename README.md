@@ -34,8 +34,8 @@
  <div align="center">
  <p align="center">
 <span>
- <a href="https://www.youtube.com/@RehansOdyssey"><img src="https://img.shields.io/badge/Youtube 1-green" /></a>
-  <a href="https://www.youtube.com/@EchoesofRehan"><img src="https://img.shields.io/badge/Youtube 2-orange" /></a>
+ <a href="https://www.youtube.com/@EchoesofRehan"><img src="https://img.shields.io/badge/Youtube 1-green" /></a>
+  <a href="https://www.youtube.com/@RehansOdyssey"><img src="https://img.shields.io/badge/Youtube 2-orange" /></a>
  <a href=""><img src="https://img.shields.io/badge/Portfolio-green" /></a>
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/ML Projects-orange" /></a> 
  <a href="https://www.youtube.com/channel/UC82A6YxBt-ni7NoP46Cw3rA"><img src="https://img.shields.io/badge/Web Projects -green" /></a> 
