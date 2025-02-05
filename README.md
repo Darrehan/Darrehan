@@ -16,7 +16,7 @@
 <div align="center">
   <p align="center">
 <span>
-<img src="https://img.shields.io/badge/Software ML and AI Arsenal  -darkgreen" />
+<img src="https://img.shields.io/badge/Software WEB APP DSML and AI Arsenal  -darkgreen" />
 </span>  
 </p>
 </div>
