@@ -40,7 +40,7 @@
   <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Twitter-orange" /></a> 
   <a href=""><img src="https://img.shields.io/badge/Rehan's Blog-green" /></a>
   <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Email-orange" /></a> 
-  <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Lets Talk Buddy-green" /></a>
+  <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Research-green" /></a>
   <a href=""><img src="https://img.shields.io/badge/Resume-orange" /></a> 
   
  </span>  
