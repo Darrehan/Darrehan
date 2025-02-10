@@ -1,4 +1,3 @@
-![Background](https://raw.githubusercontent.com/Darrehan/Darrehan/main/image.png)
 
 <span><div align="left">
     <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
