@@ -30,28 +30,18 @@
  <p align="center">
  <span>
 
-
-<a href="https://www.youtube.com/@RehansCodePeaks"><img src="https://img.shields.io/badge/Youtube 1-green" /></a>
-<a href="https://www.youtube.com/@RehansOdyssey"><img src="https://img.shields.io/badge/Youtube 2-orange" /></a>
-<a href=""><img src="https://img.shields.io/badge/Portfolio-green" /></a>
-<a href="https://github.com/Darrehan/ML.Py"><img src="https://img.shields.io/badge/ML Projects-orange" /></a> 
-<a href="https://github.com/Darrehan/Websites"><img src="https://img.shields.io/badge/Web Projects -green" /></a> 
-<a href="https://www.linkedin.com/in/darrehanrasool/"><img src="https://img.shields.io/badge/Linkedin-orange" /></a> 
-<a href="https://www.instagram.com/dar.rehan_/"><img src="https://img.shields.io/badge/Instagram-green" /></a>
-<a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Twitter-orange" /></a> 
-<a href=""><img src="https://img.shields.io/badge/Rehan's Blog-green" /></a>
-<a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Email-orange" /></a> 
-<a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Lets Talk Buddy-green" /></a>
-<a href=""><img src="https://img.shields.io/badge/Resume-orange" /></a> 
-<a href=""><img src="https://img.shields.io/badge/UI/UX Design-HTML, CSS, Tailwind-green" /></a>
-<a href=""><img src="https://img.shields.io/badge/Frontend-React, Next.js, TypeScript-blue" /></a>
-<a href=""><img src="https://img.shields.io/badge/Backend-Node.js, Express.js, GraphQL-red" /></a>
-<a href=""><img src="https://img.shields.io/badge/Full Stack-MERN Stack-purple" /></a>
-<a href=""><img src="https://img.shields.io/badge/DevOps-Docker, Kubernetes, GitHub Actions-yellow" /></a>
-<a href=""><img src="https://img.shields.io/badge/Data Science-Pandas, Scikit-learn, TensorFlow-teal" /></a>
-<a href=""><img src="https://img.shields.io/badge/Cloud Computing-AWS (S3, EC2, Lambda)-black" /></a>
-<a href=""><img src="https://img.shields.io/badge/Database-SQL, PostgreSQL, MongoDB-brown" /></a>
-
+ <a href="https://www.youtube.com/@RehansCodePeaks"><img src="https://img.shields.io/badge/Youtube 1-green" /></a>
+  <a href="https://www.youtube.com/@RehansOdyssey"><img src="https://img.shields.io/badge/Youtube 2-orange" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-green" /></a>
+  <a href="https://github.com/Darrehan/ML.Py"><img src="https://img.shields.io/badge/ML Projects-orange" /></a> 
+  <a href="https://github.com/Darrehan/Websites"><img src="https://img.shields.io/badge/Web Projects -green" /></a> 
+  <a href="https://www.linkedin.com/in/darrehanrasool/"><img src="https://img.shields.io/badge/Linkedin-orange" /></a> 
+  <a href="https://www.instagram.com/dar.rehan_/"><img src="https://img.shields.io/badge/Instagram-green" /></a>
+  <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Twitter-orange" /></a> 
+  <a href=""><img src="https://img.shields.io/badge/Rehan's Blog-green" /></a>
+  <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Email-orange" /></a> 
+  <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Lets Talk Buddy-green" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Resume-orange" /></a> 
   
  </span>  
 </p>
