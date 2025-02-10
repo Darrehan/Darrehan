@@ -1,6 +1,4 @@
-
-<div style="background-image: url('https://raw.githubusercontent.com/Darrehan/main/image.png'); 
-            background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
+![Background](https://raw.githubusercontent.com/Darrehan/Darrehan/main/image.png)
 
 <span><div align="left">
     <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
@@ -46,6 +44,4 @@
   <a href=""><img src="https://img.shields.io/badge/Resume-orange" /></a> 
  </span>  
 </p>
-</div>
-
 </div>
