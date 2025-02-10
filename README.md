@@ -1,5 +1,5 @@
 
-<div style="background-image: url('https://raw.githubusercontent.com/Darrehan/your-repo/main/image.png'); 
+<div style="background-image: url('https://raw.githubusercontent.com/Darrehan/image.png'); 
             background-size: cover; background-position: center; padding: 20px; border-radius: 10px;">
 
 <span><div align="left">
