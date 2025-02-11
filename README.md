@@ -21,7 +21,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,nodejs,jquery,expressjs,bootstrap,git,vscode,linux,github,mongodb,vite,sqlite,postman,postgres" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,nodejs,jquery,expressjs,bootstrap,git,vscode,linux,github,mongodb,vite,sqlite,postman,postgres,mysql,docker,kubernetes,tensorflow,flask,bash,terraform,ansible" />
   </a>
 </p>
 </div>
