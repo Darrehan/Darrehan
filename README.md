@@ -1,7 +1,14 @@
 
 <span><div align="left">
-    <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
+<img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
+<a href="https://colab.research.google.com/github/Darrehan/Projects/blob/main/ML%20Projects/FertiliserPlantSytem/models/FertilserModelTraining.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+[![Peerlist](https://github-readme-badge.peerlist.io/api/darrehan)](https://peerlist.io/darrehan)
 </div></span>
+
+
+
 
 <span>
 <div align="left"> 
