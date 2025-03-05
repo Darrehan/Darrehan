@@ -2,7 +2,6 @@
 <span><div align="left">
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dbfc8b64-cfb6-4baa-8f90-da8fd96e3610/deploy-status)](https://app.netlify.com/sites/darrehansportfolio/deploys)
-[![Vercel Deployment](https://github.com/DarRehan/Darrehan/actions/workflows/vercel-deploy.yml/badge.svg)](https://portfolio-beta-five-20.vercel.app)
 <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
 <a href="https://colab.research.google.com/github/Darrehan/Projects/blob/main/ML%20Projects/FertiliserPlantSytem/models/FertilserModelTraining.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
