@@ -3,10 +3,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dbfc8b64-cfb6-4baa-8f90-da8fd96e3610/deploy-status)](https://app.netlify.com/sites/darrehansportfolio/deploys)
 <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
-<a href="https://colab.research.google.com/github/Darrehan/Projects/blob/main/ML%20Projects/FertiliserPlantSytem/models/FertilserModelTraining.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
- 
 </div></span>
 
 
@@ -42,14 +38,14 @@
  <a href="https://www.youtube.com/@RehansCodePeaks"><img src="https://img.shields.io/badge/Youtube 1-green" /></a>
   <a href="https://www.youtube.com/@RehansOdyssey"><img src="https://img.shields.io/badge/Youtube 2-orange" /></a>
   <a href=""><img src="https://img.shields.io/badge/Portfolio-green" /></a>
-  <a href="https://github.com/Darrehan/ML.Py"><img src="https://img.shields.io/badge/ML Projects-orange" /></a> 
-  <a href="https://github.com/Darrehan/Websites"><img src="https://img.shields.io/badge/Web Projects -green" /></a> 
+  <a href="https://peerlist.io/darrehan"><img src="https://img.shields.io/badge/Peelist-yellow" /></a> 
+    <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Blog-green" /></a>
+  <a href="https://github.com/Darrehan/Websites"><img src="https://img.shields.io/badge/Music-blue" /></a> 
   <a href="https://www.linkedin.com/in/darrehanrasool/"><img src="https://img.shields.io/badge/Linkedin-orange" /></a> 
   <a href="https://www.instagram.com/dar.rehan_/"><img src="https://img.shields.io/badge/Instagram-green" /></a>
   <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Twitter-orange" /></a> 
   <a href=""><img src="https://img.shields.io/badge/Rehan's Blog-green" /></a>
   <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Email-orange" /></a> 
-  <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Research-green" /></a>
   <a href=""><img src="https://img.shields.io/badge/Resume-orange" /></a> 
   
  </span>  
