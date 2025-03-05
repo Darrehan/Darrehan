@@ -18,7 +18,7 @@
 <div align="center">
   <p align="center">
     <span>
-      <img src="https://img.shields.io/badge/Fullstack Arsenal  -darkgreen" />
+      <img src="https://img.shields.io/badge/Full stack Arsenal  -darkgreen" />
     </span>  
   </p>
 </div>
