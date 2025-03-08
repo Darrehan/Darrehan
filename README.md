@@ -18,7 +18,7 @@
 <div align="center">
   <p align="center">
     <span>
-      <img src="https://img.shields.io/badge/Full stack Arsenal  -darkgreen" />
+     <img src="https://img.shields.io/badge/Full Stack Arsenal-darkgreen" />
     </span>  
   </p>
 </div>
@@ -26,7 +26,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
- <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,nodejs,jquery,expressjs,bootstrap,git,vscode,linux,github,mongodb,vite,sqlite,postman,postgres,mysql,docker,kubernetes,flask,bash,terraform,ansible,fastapi,redis,kafka" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,react,nextjs,nodejs,expressjs,jquery,bootstrap,git,github,vscode,linux,mongodb,sqlite,postgres,mysql,docker,kubernetes,flask,fastapi,redis,kafka,graphql,tailwind,prisma,supabase" />
   </a>
 </p>
 </div>
