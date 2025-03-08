@@ -46,6 +46,8 @@
 <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Email-brown" /></a>  
 <a href="https://www.youtube.com/@RehansCodePeaks"><img src="https://img.shields.io/badge/Youtube 1-black" /></a>  
 <a href="https://www.youtube.com/@RehansOdyssey"><img src="https://img.shields.io/badge/Youtube 2-gray" /></a> 
+<a href="https://www.patreon.com/RehansOdyssey"><img src="https://img.shields.io/badge/Patreon-gold" /></a>
+<a href="https://github.com/Darrehan"><img src="https://img.shields.io/badge/GitHub-magenta" /></a>  
  </span>  
 </p>
 </div>
