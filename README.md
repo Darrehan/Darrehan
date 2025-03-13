@@ -34,7 +34,7 @@
 <div align="center">
  <p align="center">
  <span>
-<a href=""><img src="https://img.shields.io/badge/Portfolio-red" /></a>  
+<a href="darehansportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-red" /></a>  
 <a href=""><img src="https://img.shields.io/badge/Resume-blue" /></a>  
 <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Blog-yellow" /></a>  
 <a href="https://peerlist.io/darrehan"><img src="https://img.shields.io/badge/Peerlist-green" /></a>  
