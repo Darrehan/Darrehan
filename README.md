@@ -30,17 +30,3 @@
   </a>
 </p>
 </div>
-
-<div align="center">
- <p align="center">
- <span>
-<a href="https://darehansportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-red" /></a>  
-<a href=""><img src="https://img.shields.io/badge/Resume-blue" /></a>  
-<a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Blog-yellow" /></a>  
-<a href="https://peerlist.io/darrehan"><img src="https://img.shields.io/badge/Peerlist-green" /></a>  
-<a href="https://www.linkedin.com/in/darrehanrasool/"><img src="https://img.shields.io/badge/LinkedIn-purple" /></a>  
-<a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Twitter-orange" /></a>  
-<a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Email-brown" /></a>  
- </span>  
-</p>
-</div>
