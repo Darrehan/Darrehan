@@ -39,12 +39,8 @@
 <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Blog-yellow" /></a>  
 <a href="https://peerlist.io/darrehan"><img src="https://img.shields.io/badge/Peerlist-green" /></a>  
 <a href="https://www.linkedin.com/in/darrehanrasool/"><img src="https://img.shields.io/badge/LinkedIn-purple" /></a>  
-<a href="https://www.instagram.com/dar.rehan_/"><img src="https://img.shields.io/badge/Instagram-blue" /></a>  
 <a href="https://twitter.com/CseRehan"><img src="https://img.shields.io/badge/Twitter-orange" /></a>  
-<a href="https://github.com/Darrehan/Websites"><img src="https://img.shields.io/badge/Music-pink" /></a>  
-<a href=""><img src="https://img.shields.io/badge/Rehan's Designs-cyan" /></a>  
 <a href="mailto:darrehanrasool@gmail.com"><img src="https://img.shields.io/badge/Email-brown" /></a>  
-<a href="https://github.com/Darrehan"><img src="https://img.shields.io/badge/GitHub-magenta" /></a>  
  </span>  
 </p>
 </div>
